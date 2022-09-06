@@ -431,10 +431,11 @@
 		"ypos"	 									"3" //19
 		"wide"								 		"628"
 		"tall"	 									"468"
-		"MaxDeathNotices" 							"1"
+		"tall_minmode"								"0"
+		"MaxDeathNotices" 							"6"
 		"IconScale"	  								"0.35"
 		"LineHeight"	  							"12"
-		"LineSpacing"	  							"6"
+		"LineSpacing"	  							"0"
 		"CornerRadius"	  							"2"
 		"RightJustify"	  							"1"
 		"TextFont"									"HudFontSmallest"
