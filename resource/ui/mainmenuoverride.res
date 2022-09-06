@@ -36,7 +36,7 @@
 				"use_proportional_insets" 		"1"
 				"AllCaps"				 		"1"
 				"font"							"MenuMainTitle"
-				"textAlignment"					"center"
+				"textAlignment"					"west"
 				"default"						"1"
 				"proportionaltoparent"			"1"
 				"sound_depressed"				"UI/buttonclick.wav"
