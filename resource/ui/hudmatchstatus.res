@@ -79,7 +79,7 @@
 			"color_portrait_bg_blue"				"HUDBlueTeamSolid"
 			"color_portrait_bg_red_dead"			"White"
 			"color_portrait_bg_blue_dead"			"White"
-			"color_bar_health_high"					"Main"
+			"color_bar_health_high"					"MainGreen"
 			"color_bar_health_med"					"255 160 100 255"
 			"percentage_health_med"					"0.6"
 			"color_bar_health_low"					"Low"
