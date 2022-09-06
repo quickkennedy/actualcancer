@@ -8,7 +8,7 @@
 	"DarkHUD"
 	{
 		"label" 								"actualcancer"
-		"command" 								"engine con_enable 1; toggleconsole"
+		"command" 								"engine showconsole; exec echo"
 	}
 	"Servers"
 	{
