@@ -428,7 +428,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"HandelGothic BT Damage"
 				"tall"										"20"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -3350,6 +3350,11 @@
 		{
 			"font" "resource/fonts/handel gothic.ttf"
 			"name" "HandelGothic BT"
+		}
+		"2"
+		{
+			"font" "resource/fonts/handel gothic damage.ttf"
+			"name" "HandelGothic BT Damage"
 		}
 	}
 }
