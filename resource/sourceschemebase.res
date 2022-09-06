@@ -16,7 +16,7 @@ Scheme
 	Colors
 	{
 		// base colors
-		"White"				"255 255 255 255"
+		"White"				"225 220 220 255"
 		"OffWhite"			"221 221 221 255"
 		"DullWhite"			"190 190 190 255"
 		"Orange"			"255 155 0 255"
@@ -38,7 +38,7 @@ Scheme
 	BaseSettings
 	{
 		// vgui_controls color specifications
-		Border.Bright					"255 255 255 255"	// the lit side of a control
+		Border.Bright					"White"	// the lit side of a control
 		Border.Dark						"40 40 40 196"		// the dark/unlit side of a control
 		Border.Selection				"0 0 0 196"			// the additional border color for displaying the default/selected button
 
@@ -82,7 +82,7 @@ Scheme
 		FrameGrip.Color2				"0 0 0 196"
 		FrameTitleButton.FgColor		"200 200 200 196"
 		FrameTitleButton.BgColor		"Blank"
-		FrameTitleButton.DisabledFgColor	"255 255 255 192"
+		FrameTitleButton.DisabledFgColor	"225 220 220 192"
 		FrameTitleButton.DisabledBgColor	"Blank"
 		FrameSystemButton.FgColor		"Blank"
 		FrameSystemButton.BgColor		"Blank"
@@ -92,7 +92,7 @@ Scheme
 		FrameTitleBar.Font				"DefaultLarge"	[$WIN32]
 		FrameTitleBar.TextColor			"White"
 		FrameTitleBar.BgColor			"Blank"
-		FrameTitleBar.DisabledTextColor	"255 255 255 192"
+		FrameTitleBar.DisabledTextColor	"225 220 220 192"
 		FrameTitleBar.DisabledBgColor	"Blank"
 
 		GraphPanel.FgColor				"White"
@@ -148,7 +148,7 @@ Scheme
 		ScrollBarButton.DepressedBgColor	"Blank"
 
 		ScrollBarSlider.FgColor				"Blank"			// nob color
-		ScrollBarSlider.BgColor				"255 255 255 64"	// slider background color
+		ScrollBarSlider.BgColor				"225 220 220 64"	// slider background color
 
 		SectionedListPanel.HeaderTextColor	"White"
 		SectionedListPanel.HeaderBgColor	"Blank"
