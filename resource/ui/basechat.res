@@ -10,6 +10,7 @@
 		"ypos" "r120" // to make this permanent you have to also change event CompetitiveGame_LowerChatWindow in scripts/hudanimations_tf.txt
 		"wide" "210"
 		"tall" "120"
+		"bgcolor_override"		"0 0 0 255"
 		"PaintBackgroundType" "2"
 	}
 
@@ -23,7 +24,7 @@
 		"ypos" "395"
 		"wide" "200"
 		"tall" "2"
-		"PaintBackgroundType" "0"
+		"PaintBackgroundType" "2"
 	}
 
 	"ChatFiltersButton"
@@ -63,5 +64,6 @@
 		"textAlignment" "south-west"
 		"font" "ChatFont"
 		"maxchars" "-1"
+		"PaintBackgroundType"	"2"
 	}
 }
