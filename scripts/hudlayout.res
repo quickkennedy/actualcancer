@@ -427,7 +427,7 @@
 		"fieldName" 								"HudDeathNotice"
 		"visible" 									"1"
 		"enabled" 									"1"
-		"xpos"	 									"rs1-5"
+		"xpos"	 									"rs1+10"
 		"ypos"	 									"3"
 		"wide"								 		"628"
 		"tall"	 									"468"
