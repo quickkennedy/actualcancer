@@ -5,10 +5,15 @@
 		"command"								"engine"
 		"OnlyAtMenu"							"1"
 	}
-	"DarkHUD"
+	"ActualCancer"
 	{
 		"label" 								"actualcancer"
 		"command" 								"engine showconsole; exec echo"
+	}
+	"FriendsToggle"
+	{
+		"label"									"friends list"
+		"command"								"engine incrementvar cl_mainmenu_safemode 0 1 1"
 	}
 	"Servers"
 	{
