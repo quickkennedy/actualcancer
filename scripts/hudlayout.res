@@ -431,7 +431,6 @@
 		"ypos"	 									"3"
 		"wide"								 		"628"
 		"tall"	 									"468"
-		"tall_minmode"								"0"
 		"MaxDeathNotices" 							"6"
 		"IconScale"	  								"0.35"
 		"LineHeight"	  							"12"
