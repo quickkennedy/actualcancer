@@ -9,17 +9,17 @@ Scheme
 	{
 		"TFDarkBrown"				"31 32 33 255" //
 		"TFDarkBrownTransparent"	"31 32 33 200" //
-		"TFTanBright"				"255 255 255 255" //
-		"TFTanLight"				"255 255 255 0" //
-		"TFTanLightNob"				"255 255 255 255" //
+		"TFTanBright"				"225 220 220 255" //
+		"TFTanLight"				"225 220 220 0" //
+		"TFTanLightNob"				"225 220 220 255" //
 		"TFTanMedium"				"31 32 33 150" //
 
 		"TFTanLightBright"			"229 223 211 90" //
 		"TFTanLightDark"			"31 32 33 0" //
 
-		"TFOrangeBright"			"255 255 255 255" //
+		"TFOrangeBright"			"225 220 220 255" //
 
-		"TFTextBright"				"255 255 255 255" //
+		"TFTextBright"				"225 220 220 255" //
 		"TFTextLight"				"125 126 127 255" //
 		"TFTextMedium"				"125 126 127 255" //
 		"TFTextMediumDark"			"102 95 83 255" //
@@ -37,8 +37,8 @@ Scheme
 		"ControlBG"					"76 88 68 255"		// background color of controls
 		"ControlDarkBG"				"90 106 80 255"		// darker background color; used for background of scrollbars
 		"WindowBG"					"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"				"255 255 255 25"	// background color of any selected text or menu item
-		"SelectionBG2"				"255 255 255 25"	// selection background in window w/o focus
+		"SelectionBG"				"225 220 220 25"	// background color of any selected text or menu item
+		"SelectionBG2"				"225 220 220 25"	// selection background in window w/o focus
 		"ListBG"					"31 32 33 255"		// background of server browser, buddy list, etc. //
 	}
 	BaseSettings
