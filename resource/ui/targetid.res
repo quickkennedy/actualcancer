@@ -8,7 +8,7 @@
 		"ypos"			           					"rs1-3"
 		"zpos"			           					"1"
 		"wide"			           					"640"
-		"tall"			           					"11"
+		"tall"			           					"12"
 		"visible"		           					"1"
 		"enabled"		           					"1"
 		"proportionaltoparent"						"1"
@@ -25,7 +25,7 @@
 		"ypos"			           					"0"
 		"zpos"			           					"0"
 		"wide"			           					"641"
-		"tall"			           					"12"
+		"tall"			           					"13"
 		"visible"		           					"1"
 		"enabled"		           					"1"
 		"proportionaltoparent"						"1"
@@ -49,7 +49,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%targetdata%"
 		"textAlignment"								"west"
-		"font"										"HudFontSmallestBold"
+		"font"										"HudFontSmallestBoldOutline"
 		"fgcolor"									"White"
 	}
 
