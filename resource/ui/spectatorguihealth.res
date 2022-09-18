@@ -30,7 +30,7 @@
 		"textAlignment"								"east"	
 		"labeltext"									"%Health%"
 		"font"										"HudFontMediumSmallBold"
-		"fgcolor"			  						"Black"
+		"fgcolor"			  						"0 0 0 130"
 		
 		"pin_to_sibling"							"PlayerStatusHealthValue"
 	}
