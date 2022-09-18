@@ -4,15 +4,13 @@
 	{
 		"Main"												"207 191 255 255"
 		"High"												"80 150 255 255"
-		"MainGreen"											"80 175 115 255"
-		"MainDark"											"31 32 33 255"
 		"Low"												"225 75 75 255"
 
-		"Orange"											"80 150 255 255"
-		"OrangeDim"											"80 150 255 255"
-		"LightOrange"										"80 150 255 255"
+		"Orange"											"80 175 115 255"
+		"OrangeDim"											"80 175 115 255"
+		"LightOrange"										"80 175 115 255"
 		"GoalOrange"										"255 133 0"
-		"TFOrange"											"80 150 255 255"
+		"TFOrange"											"80 175 115 255"
 		"Purple"											"137 69 99 255"
 
 		"QuestGold"											"208 147 75 255"
@@ -66,7 +64,7 @@
 
 		"HudPanelForeground"								"123 110 59 184"
 		"HudPanelBackground"								"123 110 59 184"
-		"HudPanelBorder"									"225 220 220 102"
+		"HudPanelBorder"									"255 255 255 102"
 
 		"HudProgressBarActive"								"225 220 220 255"
 		"HudProgressBarInActive"							"225 220 220 255"
@@ -79,7 +77,7 @@
 
 		"HudTrainingHint"									"212 160 23 255"
 
-		"TanDark"											"79 75 73 255"
+		"TanDark"											"120 115 105 255"
 		"TanLight"											"225 220 220 255"
 		"TanDarker"											"45 40 35 255"
 
@@ -175,19 +173,19 @@
 
 		"SaleGreen"											"76 107 34 255"
 
-		"LightRed"											"80 150 255 255"
-		"LighterRed"										"80 150 255 255"
+		"LightRed"											"80 175 115 255"
+		"LighterRed"										"80 175 115 255"
 		"LighterDarkBrown"									"60 60 60 255"
 		"DarkBrown"											"30 30 30 255"
 
 		"UpgradeDefaultFg"									"225 220 220 255"
 		"UpgradeDefaultBg"									"60 60 60 255"
 		"UpgradeArmedFg"									"225 220 220 255"
-		"UpgradeArmedBg"									"80 150 255 255"
+		"UpgradeArmedBg"									"80 175 115 255"
 		"UpgradeDepressedFg"								"60 60 60 255"
-		"UpgradeDepressedBg"								"80 150 255 255"
+		"UpgradeDepressedBg"								"80 175 115 255"
 		"UpgradeSelectedFg"									"60 60 60 255"
-		"UpgradeSelectedBg"									"80 150 255 255"
+		"UpgradeSelectedBg"									"80 175 115 255"
 		"UpgradeDisabledFg"									"60 60 60 255"
 		"UpgradeDisabledBg"									"0 0 0 255"
 	}
@@ -339,7 +337,7 @@
 		"SectionedListPanel.SelectedTextColor"				"Black"
 		"SectionedListPanel.SelectedBgColor"				"Red"
 		"SectionedListPanel.OutOfFocusSelectedTextColor"	"Black"
-		"SectionedListPanel.OutOfFocusSelectedBgColor"		"225 220 220 32"
+		"SectionedListPanel.OutOfFocusSelectedBgColor"		"255 255 255 32"
 
 		"Slider.NobColor"									"108 108 108 255"
 		"Slider.TextColor"									"127 140 127 255"
@@ -404,7 +402,7 @@
 		"SelectionBoxBg" 									"0 0 0 80"
 		"SelectionSelectedBoxBg" 							"0 0 0 190"
 
-		"HintMessageFg"										"225 220 220 255"
+		"HintMessageFg"										"255 255 255 255"
 		"HintMessageBg" 									"0 0 0 60"
 
 		"ProgressBarFg"										"255 30 13 255"
@@ -432,7 +430,8 @@
 				"name"										"HandelGothic BT Damage"
 				"tall"										"20"
 				"antialias" 								"1"
-				"dropshadow"								"1"
+				"additive"									"1"
+				"outline"									"1"
 			}
 		}
 		"Default"
@@ -442,23 +441,6 @@
 				"name"										"HandelGothic BT"
 				"tall"										"11"
 				"antialias"									"1"
-			}
-		}
-		"DefaultUnderline"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"12"
-				"underline" 								"1"
-				"range"										"0x0000 0x017F"
-			}
-			"2"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"11"
-				"range" 									"0x0000 0x00FF"
-				"weight"									"800"
 			}
 		}
 		"DefaultSmall"
@@ -476,16 +458,6 @@
 			{
 				"name"										"Verdana"
 				"tall"										"7"
-				"antialias"									"1"
-				"range"										"0x0000 0x017F"
-			}
-		}
-		"DefaultLarge"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"20"
 				"antialias"									"1"
 				"range"										"0x0000 0x017F"
 			}
@@ -702,13 +674,15 @@
 				"antialias" 								"1"
 			}
 		}
-		"PerformanceModeSmall"
+		"HudFontSmallestBoldOutline"
 		{
 			"1"
 			{
 				"name"										"HandelGothic BT"
-				"tall"										"4"
+				"tall"										"12"
 				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
 			}
 		}
 		"StorePromotionsTitle"
@@ -756,101 +730,13 @@
 				"antialias" 								"1"
 			}
 		}
-		"FontStorePromotion"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"12"
-				"antialias" 								"1"
-			}
-		}
-		"TextTooltipFont"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"11"
-				"antialias" 								"1"
-			}
-		}
-		"GameUIButtonText"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"18"
-				"antialias" 								"1"
-			}
-		}
-		"HudClassHealth"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"16"
-				"antialias" 								"1"
-			}
-		}
 		"SpectatorKeyHints"
 		{
 			"1"
 			{
 				"name"										"HandelGothic BT"
 				"tall"										"8"
-				"weight"									"500"
 				"antialias" 								"1"
-			}
-		}
-		"ClockSubText"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"9"
-				"antialias" 								"1"
-				"dropshadow" 								"1"
-			}
-		}
-		"ClockSubTextSuddenDeath"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"8"
-				"weight"									"500"
-				"antialias" 								"1"
-			}
-		}
-		"ClockSubTextTiny"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"8"
-				"weight"									"500"
-				"antialias" 								"1"
-			}
-		}
-		"HudSelectionText"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"15"
-				"antialias" 								"1"
-				"additive"									"1"
-				"range"										"0x0000 0x017F"
-			}
-		}
-		"DebugOverlay"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"14"
-				"outline"									"1"
-				"range"										"0x0000 0x017F"
 			}
 		}
 		"TFTypeDeath"
@@ -870,79 +756,6 @@
 				"tall"  									"28"
 				"additive" 									"1"
 				"antialias" 								"1"
-			}
-		}
-		"BetaFont"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"90"
-				"range"										"0x0000 0x007F"
-				"antialias" 								"1"
-			}
-		}
-		"HudNumbers"
-		{
-			"1"
-			{
-				"name"										"Team Fortress"
-				"tall"										"28"
-				"additive"									"1"
-				"antialias"									"1"
-			}
-			"2"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"28"
-				"additive" 									"1"
-				"antialias"									"1"
-			}
-		}
-		"CloseCaption_Normal"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"24"
-				"range"										"0x0000 0x017F"
-			}
-		}
-		"CloseCaption_Italic"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"24"
-				"italic"									"1"
-				"range"										"0x0000 0x017F"
-			}
-		}
-		"CloseCaption_Bold"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"24"
-				"range"										"0x0000 0x017F"
-			}
-		}
-		"CloseCaption_BoldItalic"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"24"
-				"range"										"0x0000 0x017F"
-			}
-		}
-		"CloseCaption_Small"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"16"
-				"range"										"0x0000 0x017F"
 			}
 		}
 		"Marlett"
@@ -975,78 +788,12 @@
 				"dropshadow" 								"1"
 			}
 		}
-		"MenuClassBuckets"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"11"
-				"antialias" 								"1"
-			}
-		}
-		"MenuKeys"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"12"
-				"antialias"									"1"
-			}
-		}
-		"GoalText"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"13"
-				"weight"									"800"
-				"antialias" 								"1"
-			}
-		}
-		"ChalkboardTitle"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"28"
-				"antialias"									"1"
-				"weight"									"500"
-			}
-		}
-		"ChalkboardTitleBig"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"40"
-				"antialias"									"1"
-			}
-		}
-		"ChalkboardTitleMedium"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"24"
-				"antialias" 								"1"
-			}
-		}
-		"ChalkboardText"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"14"
-				"antialias"									"1"
-			}
-		}
 		"ScoreboardSmallest"
 		{
 			"1"
 			{
 				"name"										"Verdana"
 				"tall"										"6"
-				"weight"									"400"
 				"antialias" 								"1"
 			}
 		}
@@ -1056,7 +803,6 @@
 			{
 				"name"										"HandelGothic BT"
 				"tall"										"8"
-				"weight"									"400"
 				"antialias" 								"1"
 			}
 		}
@@ -1086,65 +832,6 @@
 				"name"										"HandelGothic BT"
 				"tall"										"20"
 				"range"										"0x0000 0x007F"
-				"antialias" 								"1"
-			}
-		}
-		"ScoreboardTeamName"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"20"
-				"range"										"0x0000 0x007F"
-				"antialias" 								"1"
-			}
-		}
-		"ScoreboardTeamCountNew"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"14"
-				"range"										"0x0000 0x007F"
-				"antialias" 								"1"
-			}
-		}
-		"ScoreboardTeamNameNew"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"20"
-				"range"										"0x0000 0x007F"
-				"antialias" 								"1"
-			}
-		}
-		"ScoreboardTeamNameLarge"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"34"
-				"range"										"0x0000 0x007F"
-				"antialias" 								"1"
-			}
-		}
-		"ScoreboardTeamScoreNew"
- 		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"36"
-				"antialias" 								"1"
-			}
-		}
-		"ScoreboardTeamScore"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"50"
-				"range" 									"0x0000 0x00FF"
 				"antialias" 								"1"
 			}
 		}
@@ -1185,41 +872,14 @@
 				"antialias" 								"1"
 			}
 		}
-		"ControlPointTimer"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"10"
-				"antialias" 								"1"
-			}
-		}
-		"ControlPointTimerSmaller"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"7"
-				"antialias" 								"1"
-			}
-		}
 		"TargetID"
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"HandelGothic BT Damage"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow"								"1"
-			}
-		}
-		"Link"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"10"
-				"antialias" 								"1"
 			}
 		}
 		"ChatFont"
@@ -1242,53 +902,12 @@
 				"antialias" 								"1"
 			}
 		}
-		"MenuSmallestFont"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"8"
-				"range" 									"0x0000 0x00FF"
-				"antialias"									"1"
-			}
-		}
-		"MenuSmallFont"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"14"
-				"range" 									"0x0000 0x00FF"
-				"antialias"									"1"
-			}
-		}
-		"CapPlayerFont"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"12"
-				"range"										"0x0000 0x017F"
-				"antialias" 								"1"
-			}
-		}
-		"CapPlayerFontSmall"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"8"
-				"range"										"0x0000 0x017F"
-				"antialias" 								"1"
-			}
-		}
 		"TFFontSmall"
 		{
 			"1"
 			{
 				"name"										"HandelGothic BT"
 				"tall"										"8"
-				"additive"									"0"
 				"antialias" 								"1"
 			}
 		}
@@ -1298,138 +917,15 @@
 			{
 				"name"										"HandelGothic BT"
 				"tall"										"9"
-				"weight"									"400"
 				"antialias" 								"1"
 			}
 		}
-
 		"InstructionalText"
 		{
 			"1"
 			{
 				"name"										"HandelGothic BT"
 				"tall"										"11"
-				"weight"									"800"
-				"antialias" 								"1"
-			}
-		}
-		"MatchmakingDialogTitle"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"36"
-				"antialias" 								"1"
-			}
-		}
-		"MatchmakingDialogSessionOptionsTitle"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"30"
-				"antialias" 								"1"
-			}
-		}
-		"MatchmakingDialogMenuLarge"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"28"
-				"antialias" 								"1"
-			}
-		}
-		"MatchmakingDialogMenuBrowserHostname"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"22"
-				"antialias" 								"1"
-			}
-		}
-		"MatchmakingDialogMenuBrowserDetails"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"18"
-				"antialias" 								"1"
-			}
-		}
-		"MatchmakingDialogMenuMedium"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"22"
-				"antialias" 								"1"
-			}
-		}
-		"MatchmakingDialogMenuMediumSmall"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"18"
-				"antialias" 								"1"
-			}
-		}
-		"MatchmakingDialogMenuSmall"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"22"
-				"weight"									"900"
-				"antialias" 								"1"
-			}
-		}
-		"MatchmakingDialogMenuSmallest"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"18"
-				"weight"									"900"
-				"antialias" 								"1"
-			}
-		}
-		"RankingDialogHeaders"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"15"
-				"weight"									"900"
-				"antialias" 								"1"
-			}
-		}
-		"TeamMenuBold"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"36"
-				"antialias" 								"1"
-			}
-		}
-		"TeamMenu"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"11"
-				"antialias" 								"1"
-			}
-		}
-		"IntroMenuCaption"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"18"
 				"antialias" 								"1"
 			}
 		}
@@ -1448,7 +944,6 @@
 			{
 				"name"										"HandelGothic BT"
 				"tall"										"10"
-				"weight"									"600"
 				"antialias" 								"1"
 			}
 		}
@@ -1458,7 +953,6 @@
 			{
 				"name"										"HandelGothic BT"
 				"tall"										"10"
-				"weight"									"500"
 				"antialias" 								"1"
 			}
 		}
@@ -1468,18 +962,7 @@
 			{
 				"name"										"Verdana"
 				"tall"										"7"
-				"weight"									"400"
 				"antialias" 								"1"
-			}
-		}
-		"DefaultVerySmallFallBack"
-		{
-			"2"
-			{
-				"name"										"Verdana"
-				"tall"										"12"
-				"range"										"0x0000 0x017F"
-				"antialias"									"1"
 			}
 		}
 		"ItemFontNameSmallest"
@@ -1747,7 +1230,6 @@
 			{
 				"name"										"HandelGothic BT"
 				"tall"										"8"
-				"weight"									"400"
 				"antialias" 								"1"
 			}
 		}
@@ -1853,16 +1335,6 @@
 				"antialias" 								"1"
 			}
 		}
-		"ControllerHintText"
-		{
-			"1"
-			{
-				"name"										"HandelGothic BT"
-				"tall"										"15"
-				"range"										"0x0000 0x007F"
-				"antialias" 								"1"
-			}
-		}
 		"MMenuPlayListDesc"
 		{
 			"1"
@@ -1953,20 +1425,6 @@
 
 	"Borders"
 	{
-		// REMOVED:
-		// TeamMenuBorder
-		// MainMenuButtonGlow
-		// MainMenuButtonGlow2
-		// MainMenuButtonDepressed
-		// MainMenuButtonDepressedArmed
-		// MainMenuBlogTabBG
-		// ReplayBrowser.ScrollBar.SliderButton.Border
-		// QuestStatusBorder
-		// InnerShadowBorder
-		// InnerShadowBorderThin
-		// OuterShadowBorder
-		// OuterShadowBorderThin
-
 		"NoBorder"
 		{
 			"Left"											{ "1" { "color" "Blank" } }
@@ -2014,17 +1472,6 @@
 			"Right"											{ "1" { "color" "SaleGreen" } }
 			"Top"											{ "1" { "color" "SaleGreen" } }
 			"Bottom"										{ "1" { "color" "SaleGreen" } }
-		}
-		"MainMenuSubButtonBorder"
-		{
-			"Left"											{ "1" { "color" "TanDarker" } }
-			"Right"											{ "1" { "color" "TanDarker" } }
-		}
-		"CrosshatchedBackground"
-		{
-			"bordertype"									"image"
-			"image"											"loadout_header"
-			"tiled"											"1"
 		}
 		"OutlinedGreyBox"
 		{
@@ -2145,6 +1592,41 @@
 			"src_corner_width"								"16"
 			"draw_corner_width"								"0"
 			"draw_corner_height" 							"0"
+		}
+		"TFFatLineBorderClearBG"
+		{
+			"Left"											{ "1" { "color" "White" } "2" { "color" "White" } }
+			"Right"											{ "1" { "color" "White" } "2" { "color" "White" } }
+			"Top"											{ "1" { "color" "White" } "2" { "color" "White" } }
+			"Bottom"										{ "1" { "color" "White" } "2" { "color" "White" } }
+		}
+		"ToolTipBorder"
+		{
+			"Left"											{ "1" { "color" "TanDarker" } }
+			"Right"											{ "1" { "color" "TanDarker" } }
+			"Top"											{ "1" { "color" "TanDarker" } }
+			"Bottom"										{ "1" { "color" "TanDarker" } }
+		}
+		"OptionsCategoryBorder"
+		{
+			"Bottom"										{ "1" { "color" "White" } }
+		}
+		"GrayDialogBorder"
+		{
+			"bordertype"									"scalable_image"
+			"color"											"40 37 37 255"
+			"image"											"White"
+			"src_corner_height"								"16"
+			"src_corner_width"								"16"
+			"draw_corner_width"								"0"
+			"draw_corner_height" 							"0"
+		}
+		"StoreFreeTrialBorder"
+		{
+			"Left"											{ "1" { "color" "195 80 55 255" } "2" { "color" "195 80 55 255" } }
+			"Right"											{ "1" { "color" "195 80 55 255" } "2" { "color" "195 80 55 255" } }
+			"Top"											{ "1" { "color" "195 80 55 255" } "2" { "color" "195 80 55 255" } }
+			"Bottom"										{ "1" { "color" "195 80 55 255" } "2" { "color" "195 80 55 255" } }
 		}
 		TFFatLineBorderClearBG
 		{
@@ -3643,16 +3125,6 @@
 			"draw_corner_width"								"0"
 			"draw_corner_height" 							"0"
 		}
-		"StoreInnerShadowBorder"
-		{
-			"bordertype"									"scalable_image"
-			"color"											"24 20 19 255"
-			"image"											"White"
-			"src_corner_height"								"16"
-			"src_corner_width"								"16"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
-		}
 		"StoreNewBorder"
 		{
 			"bordertype"									"scalable_image"
@@ -3938,20 +3410,6 @@
 			"Right"											{ "1" { "color" "QuestMap_ActiveOrange" } "2" { "color" "QuestMap_ActiveOrange" } }
 			"Top"											{ "1" { "color" "QuestMap_ActiveOrange" } "2" { "color" "QuestMap_ActiveOrange" } }
 			"Bottom"										{ "1" { "color" "QuestMap_ActiveOrange" } "2" { "color" "QuestMap_ActiveOrange" } }
-		}
-		"FriendHighlightBorder"
-		{
-			"Left"											{ "1" { "color" "CreditsGreen" } }
-			"Right"											{ "1" { "color" "CreditsGreen" } }
-			"Top"											{ "1" { "color" "CreditsGreen" } }
-			"Bottom"										{ "1" { "color" "CreditsGreen" } }
-		}
-		"FriendHighlightBorderThick"
-		{
-			"Left"											{ "1" { "color" "CreditsGreen" } "2" { "color" "CreditsGreen" } }
-			"Right"											{ "1" { "color" "CreditsGreen" } "2" { "color" "CreditsGreen" } }
-			"Top"											{ "1" { "color" "CreditsGreen" } "2" { "color" "CreditsGreen" } }
-			"Bottom"										{ "1" { "color" "CreditsGreen" } "2" { "color" "CreditsGreen" } }
 		}
 	}
 

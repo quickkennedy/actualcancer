@@ -12,9 +12,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"MainDark"
-		"infocus_bgcolor_override" 					"MainDark"
-		"outoffocus_bgcolor_override" 				"MainDark"
+		"bgcolor_override"							"31 32 33 255"
+		"infocus_bgcolor_override" 					"31 32 33 255"
+		"outoffocus_bgcolor_override" 				"31 32 33 255"
 
 		"selectlabely_default"						"25"
 		"selectlabely_onchanges"					"15"
@@ -823,124 +823,16 @@
 		"tall"										"f100"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"bgcolor_override"							"46 43 42 255"
+		"bgcolor_override"							"31 32 33 255"
 	}
 
 	"ClassLabel"
 	{
-		"ControlName"								"Label"
+		"ControlName"								"CExLabel"
 		"fieldName"									"ClassLabel"
 		"wide"										"0"
 		"tall"										"0"
 		"visible"									"0"
 		"enabled"									"0"
-	}
-
-	"ScoutNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"ScoutNumber"
-		"xpos"										"99999"
-		"labelText"									"&1"
-		"Command"									"loadout scout"
-		"visible"									"1"
-	}
-
-
-	"SoldierNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"SoldierNumber"
-		"xpos"										"99999"
-		"labelText"									"&2"
-		"Command"									"loadout soldier"
-		"visible"									"1"
-	}
-
-
-	"PyroNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"PyroNumber"
-		"xpos"										"99999"
-		"labelText"									"&3"
-		"Command"									"loadout pyro"
-		"visible"									"1"
-	}
-
-
-	"DemomanNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"DemomanNumber"
-		"xpos"										"99999"
-		"labelText"									"&4"
-		"Command"									"loadout demoman"
-		"visible"									"1"
-	}
-
-
-	"HeavyNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"HeavyNumber"
-		"xpos"										"99999"
-		"labelText"									"&5"
-		"Command"									"loadout heavy"
-		"visible"									"1"
-	}
-
-
-	"EngineerNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"EngineerNumber"
-		"xpos"										"99999"
-		"labelText"									"&6"
-		"Command"									"loadout engineer"
-		"visible"									"1"
-	}
-
-
-	"MedicNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"MedicNumber"
-		"xpos"										"99999"
-		"labelText"									"&7"
-		"Command"									"loadout medic"
-		"visible"									"1"
-	}
-
-
-	"SniperNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"SniperNumber"
-		"xpos"										"99999"
-		"labelText"									"&8"
-		"Command"									"loadout sniper"
-		"visible"									"1"
-	}
-
-
-	"SpyNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"SpyNumber"
-		"xpos"										"99999"
-		"labelText"									"&9"
-		"Command"									"loadout spy"
-		"visible"									"1"
-	}
-
-	"BackpackNumber"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"BackpackNumber"
-		"xpos"										"99999"
-		"labelText"									"&0"
-		"Command"									"backpack"
-		"visible"									"1"
 	}
 }

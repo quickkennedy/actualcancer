@@ -11,9 +11,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"MainDark"
-		"infocus_bgcolor_override" 					"MainDark"
-		"outoffocus_bgcolor_override" 				"MainDark"
+		"bgcolor_override"							"31 32 33 255"
+		"infocus_bgcolor_override" 					"31 32 33 255"
+		"outoffocus_bgcolor_override"				"31 32 33 255"
 
 		"item_xpos_offcenter_a"						"-310"
 		"item_xpos_offcenter_b"						"165"
@@ -74,7 +74,6 @@
 			"tall"									"14"
 			"visible"								"0"
 			"enabled"								"1"
-			"tabPosition"							"0"
 			"labelText"								"+"
 			"font"									"HudFontSmallBold"
 			"textAlignment"							"center"
@@ -178,7 +177,7 @@
 		"wide"										"140"
 		"tall"										"75"
 		"visible"									"0"
-		"bgcolor_override"							"MainDark"
+		"bgcolor_override"							"69 64 63 255"
 		"PaintBackgroundType"						"0"
 	}
 
@@ -198,7 +197,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"image_drawcolor"							"225 220 220 255"
-		"image_armedcolor"							"Main"
+		"image_armedcolor"							"80 175 115 255"
 
 		"SubImage"
 		{
@@ -233,7 +232,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"0"
 		"image_drawcolor"							"225 220 220 255"
-		"image_armedcolor"							"Main"
+		"image_armedcolor"							"80 175 115 255"
 
 		"SubImage"
 		{

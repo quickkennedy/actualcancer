@@ -22,7 +22,7 @@
 		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
-		"fillcolor"									"MainDark"
+		"fillcolor"									"31 32 33 255"
 	}
 	"MapType"
 	{
@@ -40,7 +40,7 @@
 		"font"										"HudFontGiantBold"
 		"labelText"									"%maptype%"
 		"textAlignment"								"center"
-		"fgcolor"									"White"
+		"fgcolor"									"TanDark"
 	}
 	"MapLabel"
 	{
@@ -87,7 +87,7 @@
 	}
 	"TipText"
 	{
-		"ControlName"								"Label"
+		"ControlName"								"CExLabel"
 		"fieldName"									"TipText"
 		"xpos"										"9999"
 	}

@@ -1,1 +1,1 @@
-#base "loadingdialog.res"
+#base "loadingdialogbase.res"

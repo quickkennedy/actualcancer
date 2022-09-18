@@ -13,9 +13,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"MainDark"
-		"infocus_bgcolor_override" 					"MainDark"
-		"outoffocus_bgcolor_override" 				"MainDark"
+		"bgcolor_override"							"31 32 33 255"
+		"infocus_bgcolor_override" 					"31 32 33 255"
+		"outoffocus_bgcolor_override" 				"31 32 33 255"
 
 		"item_ypos"									"85"
 		"output_item_ypos"							"255"

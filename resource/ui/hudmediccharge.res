@@ -25,31 +25,12 @@
 		"enabled"									"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"         				 	"center"
-		"font"                   				 	"HudFontBiggerBold"
+		"font"                   				 	"HudFontBiggerBoldShadow"
 		"fgcolor"	    	         				"White"
 
 		"pin_to_sibling"							"UberAnchor"
 		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
-	}
-	
-	"ChargeLabelShadow"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"ChargeLabelShadow"
-		"xpos"										"-1"
-		"ypos"										"-1"
-		"zpos"										"2"
-		"wide"										"150"
-		"tall"										"40"
-		"visible"									"1"
-		"enabled"									"1"
-		"labelText"									"#TF_UberchargeMinHUD"
-		"textAlignment"         				 	"center"
-		"font"                   				 	"HudFontBiggerBold"
-		"fgcolor"	    	         				"0 0 0 130"
-
-		"pin_to_sibling"							"ChargeLabel"
 	}
 	"IndividualChargesLabel"
 	{

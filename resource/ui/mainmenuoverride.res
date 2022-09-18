@@ -76,7 +76,7 @@
 			"proportionaltoparent"				"1"
 			"paintbackground"					"1"
 			"paintbackgroundtype"				"0"
-			"bgcolor_override"					"MainDark"
+			"bgcolor_override"					"31 32 33 255"
 		}
 	}
 

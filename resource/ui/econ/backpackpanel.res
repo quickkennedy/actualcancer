@@ -1,4 +1,4 @@
-"Resource/UI/BackPackPanel.res"
+"Resource/UI/Econ/BackPackPanel.res"
 {
 	"backpack_panel"
 	{
@@ -11,9 +11,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"MainDark"
-		"infocus_bgcolor_override" 					"MainDark"
-		"outoffocus_bgcolor_override" 				"MainDark"
+		"bgcolor_override"							"46 43 42 255"
+		"infocus_bgcolor_override" 					"46 43 42 255"
+		"outoffocus_bgcolor_override" 				"46 43 42 255"
 
 		"item_xpos_offcenter_a"						"-310"
 		"item_xpos_offcenter_b"						"165"
@@ -181,19 +181,19 @@
 		"paintborder"								"0"
 
 		"fgcolor_override"							"White"
-		"bgcolor_override"							"MainDark"
+		"bgcolor_override"							"31 32 33 255"
 		"disabledFgColor_override" 					"White"
-		"disabledBgColor_override" 					"MainDark"
-		"selectionColor_override" 					"MainDark"
+		"disabledBgColor_override" 					"31 32 33 255"
+		"selectionColor_override" 					"31 32 33 255"
 		"selectionTextColor_override" 				"White"
-		"defaultSelectionBG2Color_override" 		"MainDark"
+		"defaultSelectionBG2Color_override" 		"31 32 33 255"
 
 		"Button"
 		{
 			"defaultFgColor_override"				"White"
-			"defaultBgColor_override"				"MainDark"
+			"defaultBgColor_override"				"31 32 33 255"
 			"armedFgColor_override"					"White"
-			"armedBgColor_override"					"MainDark"
+			"armedBgColor_override"					"31 32 33 255"
 			"paintbackgroundtype"					"0"
 		}
 	}
@@ -228,7 +228,7 @@
 		"enabled"									"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"MainDark"
+		"bgcolor_override"							"31 32 33 255"
 
 		"Icon"
 		{
@@ -263,7 +263,7 @@
 		"editable"									"1"
 		"unicode"									"1"
 		"fgcolor_override"							"White"
-		"bgcolor_override"							"MainDark"
+		"bgcolor_override"							"45 45 45 255"
 		"paintbackgroundtype" 						"0"
 		"font"										"HudFontSmallest"
 	}
@@ -289,19 +289,19 @@
 		"paintborder"								"0"
 
 		"fgcolor_override"							"White"
-		"bgcolor_override"							"MainDark"
+		"bgcolor_override"							"31 32 33 255"
 		"disabledFgColor_override" 					"White"
-		"disabledBgColor_override" 					"MainDark"
-		"selectionColor_override" 					"MainDark"
+		"disabledBgColor_override" 					"31 32 33 255"
+		"selectionColor_override" 					"31 32 33 255"
 		"selectionTextColor_override" 				"White"
-		"defaultSelectionBG2Color_override" 		"MainDark"
+		"defaultSelectionBG2Color_override" 		"31 32 33 255"
 
 		"Button"
 		{
 			"defaultFgColor_override"				"White"
-			"defaultBgColor_override"				"MainDark"
+			"defaultBgColor_override"				"31 32 33 255"
 			"armedFgColor_override"					"White"
-			"armedBgColor_override"					"MainDark"
+			"armedBgColor_override"					"31 32 33 255"
 			"paintbackgroundtype"					"0"
 		}
 	}

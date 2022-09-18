@@ -12,7 +12,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
-		"bgcolor_override"							"MainDark"
+		"bgcolor_override"							"31 32 33 255"
 
 		"item_ypos"									"90"
 		"item_ydelta"								"80"
@@ -98,7 +98,7 @@
 		"enabled"									"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"MainDark"
+		"bgcolor_override"							"31 32 33 255"
 
 		"Icon"
 		{
@@ -133,7 +133,7 @@
 		"editable"									"1"
 		"unicode"									"1"
 		"fgcolor_override"							"White"
-		"bgcolor_override"							"MainDark"
+		"bgcolor_override"							"45 45 45 255"
 		"paintbackgroundtype" 						"0"
 		"font"										"HudFontSmallest"
 	}

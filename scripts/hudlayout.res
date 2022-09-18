@@ -1,5 +1,3 @@
-#base	"../customizations/transparent viewmodels.res"
-
 "Resource/HudLayout.res"
 {
 	"TransparentViewmodelMask"
@@ -11,11 +9,12 @@
 		"zpos"										"-100"
 		"wide"										"f0"
 		"tall"										"480"
+		"visible"									"1"
 		"enabled"									"1"
 		"image"										"replay/thumbnails/transparentviewmodel"
 		"scaleImage"								"1"
 	}
-
+	
 	"HudPlayerStatus"
 	{
 		"fieldName" 								"HudPlayerStatus"
@@ -174,7 +173,7 @@
 		"BoxColor" 									"0 0 0 220"
 		"SelectedBoxClor" 							"0 0 0 220"
 		"SelectionNumberFg"							"200 187 161 255"
-		"NumberFont" 								"HudSelectionText"
+		"NumberFont" 								"HudFontSmallishBold"
 	}
 
 	"CHudAccountPanel"
@@ -427,14 +426,14 @@
 		"fieldName" 								"HudDeathNotice"
 		"visible" 									"1"
 		"enabled" 									"1"
-		"xpos"	 									"rs1"
+		"xpos"	 									"rs1+10"
 		"ypos"	 									"3"
 		"wide"								 		"628"
 		"tall"	 									"468"
 		"MaxDeathNotices" 							"6"
 		"IconScale"	  								"0.35"
 		"LineHeight"	  							"12"
-		"LineSpacing"	  							"-2"
+		"LineSpacing"	  							"0"
 		"CornerRadius"	  							"3"
 		"RightJustify"	  							"1"
 		"TextFont"									"HudFontSmallest"
@@ -442,7 +441,7 @@
 		"TeamRed"									"HUDRedTeamSolid"
 		"IconColor"									"White"
 		"LocalPlayerColor"							"HUDBlack"
-		"BaseBackgroundColor"						"Blank" //"0 0 0 100"
+		"BaseBackgroundColor"						"Blank"
 		"LocalBackgroundColor"						"White"
 	}
 
@@ -500,6 +499,7 @@
 		"ypos"										"0"
 		"wide"	 									"f0"
 		"tall"	 									"f0"
+		
 		//this hides the messages on minmode
 		"xpos_minmode"								"9999"
 		"ypos_minmode"								"9999"
@@ -649,13 +649,13 @@
 
 	"HudScopeCharge"
 	{
-		"fieldName" 								"HudScopeCharge"
+		"fieldName"									"HudScopeCharge"
 		"visible" 									"1"
 		"enabled" 									"1"
-		"xpos" 										"c64"
-		"ypos" 										"c-64"
-		"wide" 										"64"
-		"tall" 										"128"
+		"xpos"										"c64"
+		"ypos"	 									"c-64"
+		"wide"	 									"64"
+		"tall"	 									"128"
 	}
 
 	"HudVoiceSelfStatus"
@@ -1130,12 +1130,12 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"HudAchievementTracker"
-		"xpos"										"5"
-		"NormalY"									"10"
-		"EngineerY"									"170"
-		"zpos"										"2"
-		"wide"										"280"
-		"tall"										"280"
+		"xpos"										"0"
+		"NormalY"									"0"
+		"EngineerY"									"0"
+		"zpos"										"0"
+		"wide"										"f0"
+		"tall"										"f0"
 		"visible"									"1"
 		"enabled"									"1"
 	}

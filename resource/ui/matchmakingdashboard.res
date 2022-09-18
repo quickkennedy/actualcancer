@@ -41,7 +41,7 @@
 			"visible"								"1"
 			"PaintBackground"						"1"
 			"PaintBackgroundType"					"0"
-			"bgcolor_override"						"MainDark"
+			"bgcolor_override"						"31 32 33 255"
 			"proportionaltoparent"					"1"
 		}
 

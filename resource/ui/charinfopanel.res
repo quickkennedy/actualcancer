@@ -12,9 +12,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"1"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"MainDark"
-		"infocus_bgcolor_override" 					"MainDark"
-		"outoffocus_bgcolor_override" 				"MainDark"
+		"bgcolor_override"							"31 32 33 255"
+		"infocus_bgcolor_override"					"31 32 33 255"
+		"outoffocus_bgcolor_override"				"31 32 33 255"
 
 		"title"										""
 		"title_font"								""
@@ -71,12 +71,13 @@
 		"Command"									"back"
 		"sound_depressed"							"UI/buttonclick.wav"
 
-		"paintbackground"							"0"
+		"paintbackground"							"1"
+		"defaultBgColor_override"					"31 32 33 255"
+		"armedBgColor_override"						"18 19 20 255"
 
 		"armedFgColor_override"						"White"
 		"defaultFgColor_override"					"White"
 	}
-
 	"BackShortKey"
 	{
 		"ControlName"								"CExButton"
@@ -86,17 +87,6 @@
 		"Command"									"back"
 		"visible"									"1"
 	}
-
-	"CloseShortKey"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"CloseShortKey"
-		"xpos"										"9999"
-		"labelText"									"&E"
-		"Command"									"close"
-		"visible"									"1"
-	}
-
 	"NotificationsPresentPanel"
 	{
 		"ControlName"								"CNotificationsPresentPanel"
