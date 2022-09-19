@@ -337,7 +337,7 @@
 		"SectionedListPanel.SelectedTextColor"				"Black"
 		"SectionedListPanel.SelectedBgColor"				"Red"
 		"SectionedListPanel.OutOfFocusSelectedTextColor"	"Black"
-		"SectionedListPanel.OutOfFocusSelectedBgColor"		"255 255 255 32"
+		"SectionedListPanel.OutOfFocusSelectedBgColor"		"225 220 220 32"
 
 		"Slider.NobColor"									"108 108 108 255"
 		"Slider.TextColor"									"127 140 127 255"
@@ -392,17 +392,17 @@
 		"HudIcon_Green"										"0 160 0 255"
 		"HudIcon_Red"										"160 0 0 255"
 
-		"ItemColor"											"255 167 42 200"
-		"MenuColor"											"233 208 173 255"
-		"MenuBoxBg"											"0 0 0 100"
+		"ItemColor"											"White"
+		"MenuColor"											"White"
+		"MenuBoxBg"											"0 0 0 130"
 
-		"SelectionNumberFg"									"225 220 220 255"
-		"SelectionTextFg"									"225 220 220 255"
+		"SelectionNumberFg"									"White"
+		"SelectionTextFg"									"White"
 		"SelectionEmptyBoxBg" 								"0 0 0 80"
 		"SelectionBoxBg" 									"0 0 0 80"
 		"SelectionSelectedBoxBg" 							"0 0 0 190"
 
-		"HintMessageFg"										"255 255 255 255"
+		"HintMessageFg"										"White"
 		"HintMessageBg" 									"0 0 0 60"
 
 		"ProgressBarFg"										"255 30 13 255"
