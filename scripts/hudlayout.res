@@ -426,7 +426,7 @@
 		"fieldName" 								"HudDeathNotice"
 		"visible" 									"1"
 		"enabled" 									"1"
-		"xpos"	 									"rs1+10"
+		"xpos"	 									"rs1+5"
 		"ypos"	 									"3"
 		"wide"								 		"628"
 		"tall"	 									"468"
@@ -439,10 +439,10 @@
 		"TextFont"									"HudFontSmallest"
 		"TeamBlue"									"100 150 185 255"
 		"TeamRed"									"HUDRedTeamSolid"
-		"IconColor"									"White"
-		"LocalPlayerColor"							"HUDBlack"
+		"IconColor"									"255 255 255 255" //"White"
+		"LocalPlayerColor"							"White"
 		"BaseBackgroundColor"						"Blank"
-		"LocalBackgroundColor"						"White"
+		"LocalBackgroundColor"						"Blank"
 	}
 
 	"HudVehicle"
