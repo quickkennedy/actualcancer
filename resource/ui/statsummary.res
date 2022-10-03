@@ -40,7 +40,7 @@
 		"font"										"HudFontGiantBold"
 		"labelText"									"%maptype%"
 		"textAlignment"								"center"
-		"fgcolor"									"TanDark"
+		"fgcolor"									"White"
 	}
 	"MapLabel"
 	{

@@ -2,6 +2,8 @@
 
 event HudHealthBonusPulse
 {
+	Animate		PlayerStatusHealthBonusImage 		Alpha		"255"						Linear	0.0	0.2
+	
 	Animate 	PlayerStatusHealthValue 		FgColor 	"High" 					Linear 	0.0 	0.0
 
 	RunEvent 	HudHealthBonusPulseLoop			0.4
@@ -19,6 +21,8 @@ event HudHealthBonusPulseStop
 
 event HudHealthDyingPulse
 {
+	Animate	PlayerStatusHealthBonusImage 		Alpha		"255"						Linear 	0.0		0.075
+	
 	Animate 	PlayerStatusHealthValue 		FgColor 	"Low" 					Linear 	0.0 	0.0
 
 	RunEvent 	HudHealthDyingPulseLoop			0.25
@@ -107,7 +111,7 @@ event ActiveTimerBGPulse
 
 event ActiveTimerHighlight
 {
-	Animate 	TimePanelValue 					FgColor		"High"					Linear 	0.0 	0.0
+	Animate 	TimePanelValue 					FgColor		"255 255 0 255"					Linear 	0.0 	0.0
 }
 
 event ActiveTimerDim

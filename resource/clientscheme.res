@@ -6,11 +6,11 @@
 		"High"												"80 150 255 255"
 		"Low"												"225 75 75 255"
 
-		"Orange"											"80 175 115 255"
-		"OrangeDim"											"80 175 115 255"
-		"LightOrange"										"80 175 115 255"
+		"Orange"											"207 191 255 255"
+		"OrangeDim"											"207 191 255 255"
+		"LightOrange"										"207 191 255 255"
 		"GoalOrange"										"255 133 0"
-		"TFOrange"											"80 175 115 255"
+		"TFOrange"											"207 191 255 255"
 		"Purple"											"137 69 99 255"
 
 		"QuestGold"											"208 147 75 255"
@@ -100,7 +100,7 @@
 		"DisguiseMenuIconBlue"								"115 150 170 255"
 
  		"MatchmakingDialogTitleColor"						"200 184 151 255"
- 		"MatchmakingMenuItemBackground"						"46 43 42 255"
+ 		"MatchmakingMenuItemBackground"						"31 32 33 255"
  		"MatchmakingMenuItemBackgroundActive"				"150 71 0 255"
 		"MatchmakingMenuItemTitleColor"						"200 184 151 255"
 		"MatchmakingMenuItemDescriptionColor"				"200 184 151 255"
@@ -173,19 +173,19 @@
 
 		"SaleGreen"											"76 107 34 255"
 
-		"LightRed"											"80 175 115 255"
-		"LighterRed"										"80 175 115 255"
+		"LightRed"											"207 191 255 255"
+		"LighterRed"										"207 191 255 255"
 		"LighterDarkBrown"									"60 60 60 255"
 		"DarkBrown"											"30 30 30 255"
 
 		"UpgradeDefaultFg"									"225 220 220 255"
 		"UpgradeDefaultBg"									"60 60 60 255"
 		"UpgradeArmedFg"									"225 220 220 255"
-		"UpgradeArmedBg"									"80 175 115 255"
+		"UpgradeArmedBg"									"207 191 255 255"
 		"UpgradeDepressedFg"								"60 60 60 255"
-		"UpgradeDepressedBg"								"80 175 115 255"
+		"UpgradeDepressedBg"								"207 191 255 255"
 		"UpgradeSelectedFg"									"60 60 60 255"
-		"UpgradeSelectedBg"									"80 175 115 255"
+		"UpgradeSelectedBg"									"207 191 255 255"
 		"UpgradeDisabledFg"									"60 60 60 255"
 		"UpgradeDisabledBg"									"0 0 0 255"
 	}
@@ -216,9 +216,9 @@
 		"Econ.Button.PresetArmedColorFg"					"TanLight"
 		"Econ.Button.PresetDepressedColorFg"				"TanLight"
 
-		"Econ.Button.PresetDefaultColorBg"					"LighterRed"
-		"Econ.Button.PresetArmedColorBg"					"LightRed"
-		"Econ.Button.PresetDepressedColorBg"				"TFOrange"
+		"Econ.Button.PresetDefaultColorBg"					"High"
+		"Econ.Button.PresetArmedColorBg"					"High"
+		"Econ.Button.PresetDepressedColorBg"				"High"
 
 		"Border.Bright"										"Blank"
 		"Border.Dark"										"Black"
@@ -1476,7 +1476,7 @@
 		"OutlinedGreyBox"
 		{
 			"bordertype"									"scalable_image"
-			"color"											"46 43 42 255"
+			"color"											"31 32 33 255"
 			"image"											"White"
 			"src_corner_height"								"16"
 			"src_corner_width"								"16"
@@ -1486,119 +1486,156 @@
 		"OutlinedDullGreyBox"
 		{
 			"bordertype"									"scalable_image"
-			"color"											"46 43 42 255"
+			"color"											"31 32 33 255"
 			"image"											"White"
 			"src_corner_height"								"16"
 			"src_corner_width"								"16"
 			"draw_corner_width"								"0"
 			"draw_corner_height" 							"0"
 		}
-		"TFThinLineBorder"
+		OutlinedGreyBox
 		{
-			"bordertype"									"scalable_image"
-			"color"											"48 44 42 255"
-			"image"											"white"
-			"src_corner_height"								"24"
-			"src_corner_width"								"24"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"loadout_round_rect_selected"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"11"	
 		}
-		"TFFatLineBorderOpaque"
+		OutlinedDullGreyBox
 		{
-			"bordertype"									"scalable_image"
-			"color"											"48 44 42 255"
-			"image"											"white"
-			"src_corner_height"								"24"
-			"src_corner_width"								"24"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"loadout_round_rect"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"11"	
 		}
-		"TFFatLineBorder"
+		TFThinLineBorder
 		{
-			"bordertype"									"scalable_image"
-			"color"											"48 44 42 255"
-			"image"											"white"
-			"src_corner_height"								"16"
-			"src_corner_width"								"16"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/tournament_panel_brown"
+			//"image"					"../hud/color_panel_browner"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"	
 		}
-		"TFFatLineBorderRedBGOpaque"
+		TFFatLineBorderOpaque
 		{
-			"bordertype"									"scalable_image"
-			"color"											"HUDRedTeamSolid"
-			"image"											"white"
-			"src_corner_height"								"16"
-			"src_corner_width"								"16"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_brown_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
 		}
-		"TFFatLineBorderRedBGOpaque_Store"
+		TFFatLineBorder
 		{
-			"bordertype"									"scalable_image"
-			"color"											"HUDRedTeamSolid"
-			"image"											"white"
-			"src_corner_height"								"16"
-			"src_corner_width"								"16"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_brown"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
 		}
-		"TFFatLineBorderRedBG"
+		TFFatLineBorderRedBGOpaque
 		{
-			"bordertype"									"scalable_image"
-			"color"											"HUDRedTeamSolid"
-			"image"											"white"
-			"src_corner_height"								"16"
-			"src_corner_width"								"16"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_red_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
 		}
-		"TFFatLineBorderRedBGMoreOpaque"
+		TFFatLineBorderRedBGOpaque_Store
 		{
-			"bordertype"									"scalable_image"
-			"color"											"HUDRedTeamSolid"
-			"image"											"white"
-			"src_corner_height"								"16"
-			"src_corner_width"								"16"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_red_opaque"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"11"	
 		}
-		"TFFatLineBorderBlueBG"
+		TFFatLineBorderRedBG
 		{
-			"bordertype"									"scalable_image"
-			"color"											"HUDBlueTeamSolid"
-			"image"											"white"
-			"src_corner_height"								"16"
-			"src_corner_width"								"16"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_red"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
 		}
-		"TFFatLineBorderBlueBGMoreOpaque"
+		TFFatLineBorderRedBGMoreOpaque
 		{
-			"bordertype"									"scalable_image"
-			"color"											"HUDBlueTeamSolid"
-			"image"											"white"
-			"src_corner_height"								"16"
-			"src_corner_width"								"16"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_red_more_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
 		}
-		"TFFatLineBorderBlueBGOpaque"
+		TFFatLineBorderBlueBG
 		{
-			"bordertype"									"scalable_image"
-			"color"											"HUDBlueTeamSolid"
-			"image"											"white"
-			"src_corner_height"								"16"
-			"src_corner_width"								"16"
-			"draw_corner_width"								"0"
-			"draw_corner_height" 							"0"
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_blu"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
 		}
-		"TFFatLineBorderClearBG"
+		TFFatLineBorderBlueBGMoreOpaque
 		{
-			"Left"											{ "1" { "color" "White" } "2" { "color" "White" } }
-			"Right"											{ "1" { "color" "White" } "2" { "color" "White" } }
-			"Top"											{ "1" { "color" "White" } "2" { "color" "White" } }
-			"Bottom"										{ "1" { "color" "White" } "2" { "color" "White" } }
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_blu_more_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
+		}
+		TFFatLineBorderBlueBGOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_blu_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
+		}
+		TFFatLineBorderClearBG
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_clear"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
 		}
 		"ToolTipBorder"
 		{
@@ -1614,7 +1651,7 @@
 		"GrayDialogBorder"
 		{
 			"bordertype"									"scalable_image"
-			"color"											"40 37 37 255"
+			"color"											"41 42 43 255"
 			"image"											"White"
 			"src_corner_height"								"16"
 			"src_corner_width"								"16"
@@ -1653,7 +1690,7 @@
 		"GrayDialogBorder"
 		{
 			"bordertype"									"scalable_image"
-			"color"											"40 37 37 255"
+			"color"											"41 42 43 255"
 			"image"											"White"
 			"src_corner_height"								"16"
 			"src_corner_width"								"16"

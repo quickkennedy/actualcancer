@@ -13,7 +13,7 @@
 		"enabled"		           					"1"
 		"HealthBonusPosAdj"     					"35"
 		"HealthDeathWarning"    					"0.49"
-		"HealthDeathWarningColor"					"HUDDeathWarning"
+		"HealthDeathWarningColor"					"113 38 38 255"
 	}
 
 	"HealthAnchor"
@@ -84,6 +84,21 @@
 		"pin_to_sibling"							"PlayerStatusHealthValue"
 		"pin_corner_to_sibling"						"PIN_CENTER_RIGHT"
 		"pin_to_sibling_corner"						"PIN_CENTER_LEFT"
+	}
+	
+	"PlayerStatusHealthBonusImage"
+	{
+		"ControlName"	         				 	"ImagePanel"
+		"fieldName"		         				 	"PlayerStatusHealthBonusImage"
+		"xpos"		    	          				"cs-0.5-150"
+		"ypos"										"cs-0.5+110"
+		"zpos"										"-1"
+		"wide"										"100"
+		"tall"										"o1"
+		"visible"									"1"
+		"enabled"									"1"
+		"image"										"../sprites/obj_icons/health_over_bg"
+		"scaleImage"								"1"
 	}
 
 	"PlayerStatusBleedImage"
@@ -640,12 +655,6 @@
 	{
 		"ControlName"	           				 	"ImagePanel"
 		"fieldName"	  	         				 	"PlayerStatusHealthImageBG"
-		"xpos"		    	          				"9999"
-	}
-	"PlayerStatusHealthBonusImage"
-	{
-		"ControlName"	         				 	"ImagePanel"
-		"fieldName"		         				 	"PlayerStatusHealthBonusImage"
 		"xpos"		    	          				"9999"
 	}
 	"PlayerStatusMaxHealthValue"
