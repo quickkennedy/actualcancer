@@ -18,14 +18,14 @@
 		"ControlName"								"ImagePanel"
 		"fieldName"									"EmptyImage"
 		"xpos"										"1"
-		"ypos"										"1"
-		"zpos"										"100"
+		"ypos"										"rs2"
+		"zpos"										"10"
 		"wide"										"f2"
-		"tall"										"f2"
+		"tall"										"1"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"scaleImage"								"1"
-		"image"										"class_portraits/silhouette_alpha"
+		"fillcolor"									"100 100 100 255"
 		"mouseinputenabled"							"0"
 	}
 
