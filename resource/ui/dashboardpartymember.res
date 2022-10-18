@@ -6,7 +6,7 @@
 		"xpos"										"1"
 		"ypos"										"1"
 		"zpos"										"101"
-		"wide"										"f2"
+		"wide"										"0" //"f2"
 		"tall"										"f2"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
