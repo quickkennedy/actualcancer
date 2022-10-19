@@ -22,6 +22,7 @@
 		"fieldName"									"HealthAnchor"
 		"xpos"										"c-150"
 		"ypos"										"c90"
+		"ypos_minmode"								"r40"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"40"
@@ -90,7 +91,7 @@
 	{
 		"ControlName"	         				 	"ImagePanel"
 		"fieldName"		         				 	"PlayerStatusHealthBonusImage"
-		"xpos"		    	          				"cs-0.5-150"
+		"xpos"		    	          				"cs-0.5-150+99999"
 		"ypos"										"cs-0.5+110"
 		"zpos"										"-1"
 		"wide"										"75"
