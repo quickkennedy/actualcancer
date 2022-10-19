@@ -427,7 +427,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT Damage"
+				"name"										"TF2 Build"
 				"tall"										"20"
 				"antialias" 								"1"
 				"additive"									"1"
@@ -438,7 +438,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -447,7 +447,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -466,7 +466,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias" 								"1"
 				"additive"									"1"
@@ -476,7 +476,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -485,7 +485,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -494,7 +494,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"46"
 				"antialias" 								"1"
 			}
@@ -503,7 +503,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"35"
 				"antialias" 								"1"
 			}
@@ -512,7 +512,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"35"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -522,7 +522,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"36"
 				"antialias" 								"1"
 			}
@@ -531,7 +531,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -540,7 +540,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -549,7 +549,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -558,7 +558,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -567,7 +567,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -576,7 +576,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -585,7 +585,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -594,7 +594,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -603,7 +603,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -612,7 +612,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -621,7 +621,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"16"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -631,7 +631,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -640,7 +640,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias"								 	"1"
 				"dropshadow"								"1"
@@ -650,7 +650,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -659,7 +659,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -669,7 +669,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -678,7 +678,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"12"
 				"antialias" 								"1"
 				"additive"									"0"
@@ -689,7 +689,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -698,7 +698,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -707,7 +707,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -716,7 +716,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -725,7 +725,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"6"
 				"antialias" 								"1"
 			}
@@ -734,7 +734,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -782,7 +782,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -801,7 +801,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -810,7 +810,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -819,7 +819,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -829,7 +829,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"20"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -839,7 +839,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"36"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -849,7 +849,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -858,7 +858,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"20"
 				"antialias" 								"1"
 			}
@@ -867,7 +867,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -876,7 +876,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT Damage"
+				"name"										"TF2 Build"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -886,7 +886,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"16"
 				"dropshadow"								"1"
 				"antialias" 								"1"
@@ -896,7 +896,7 @@
 		{
 			"4"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"dropshadow"								"1"
 				"antialias" 								"1"
@@ -906,7 +906,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -915,7 +915,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -924,7 +924,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -933,7 +933,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -942,7 +942,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -951,7 +951,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -969,7 +969,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -978,7 +978,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -987,7 +987,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -996,7 +996,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias"								 	"1"
 			}
@@ -1005,7 +1005,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1014,7 +1014,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1023,7 +1023,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1032,7 +1032,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1041,7 +1041,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1051,7 +1051,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -1060,7 +1060,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"9"
 				"blur"										"3"
 				"additive"									"1"
@@ -1071,7 +1071,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"7"
 				"additive"									"1"
 				"antialias" 								"1"
@@ -1081,7 +1081,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"7"
 				"additive"									"1"
 				"antialias" 								"1"
@@ -1091,7 +1091,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1100,7 +1100,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -1111,7 +1111,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1120,7 +1120,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1129,7 +1129,7 @@
 		{
 			"13"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1138,7 +1138,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"16"
 				"antialias"								 	"1"
 			}
@@ -1147,7 +1147,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"20"
 				"antialias"									"1"
 			}
@@ -1156,7 +1156,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"22"
 				"antialias"									"1"
 			}
@@ -1165,7 +1165,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"22"
 				"antialias"									"1"
 			}
@@ -1174,7 +1174,7 @@
 		{
 			"3"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1183,7 +1183,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"13"
 				"antialias" 								"1"
 			}
@@ -1192,7 +1192,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -1201,7 +1201,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -1210,7 +1210,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1219,7 +1219,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1228,7 +1228,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1237,7 +1237,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"9"
 				"antialias" 								"1"
 				"italic"									"1"
@@ -1247,7 +1247,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1257,7 +1257,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1266,7 +1266,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1276,7 +1276,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1285,7 +1285,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"antialias"								 	"1"
 			}
@@ -1294,7 +1294,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -1303,7 +1303,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -1312,7 +1312,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -1321,7 +1321,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1330,7 +1330,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -1339,7 +1339,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -1348,7 +1348,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1357,7 +1357,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"11"
 				"blur"										"3"
 				"additive"									"1"
@@ -1368,7 +1368,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -1378,7 +1378,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -1389,7 +1389,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1398,7 +1398,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -1407,7 +1407,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1416,7 +1416,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT"
+				"name"										"TF2 Build"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -3454,13 +3454,8 @@
 	{
 		"1"
 		{
-			"font" "resource/fonts/handel gothic.ttf"
-			"name" "HandelGothic BT"
-		}
-		"2"
-		{
-			"font" "resource/fonts/handel gothic damage.ttf"
-			"name" "HandelGothic BT Damage"
+			"font" "resource/tf2build.ttf"
+			"name" "TF2 Build"
 		}
 	}
 }
