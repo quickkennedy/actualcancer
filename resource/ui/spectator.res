@@ -8,6 +8,7 @@
 		"tall"										"f0"
 		"visible"									"1"
 		"enabled"									"1"
+		"autoResize"								"0"
 	}
 	"ReinforcementsLabel"
 	{
