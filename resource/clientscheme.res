@@ -876,7 +876,7 @@
 		{
 			"1"
 			{
-				"name"										"HandelGothic BT Damage"
+				"name"										"TF2 Build"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -3454,7 +3454,7 @@
 	{
 		"1"
 		{
-			"font" "resource/fonts/tf2build.ttf"
+			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
 		}
 	}
