@@ -90,7 +90,7 @@
 	{
 		"ControlName"	         				 	"ImagePanel"
 		"fieldName"		         				 	"PlayerStatusHealthBonusImage"
-		"xpos"		    	          				"cs-0.5-150"
+		"xpos"		    	          				"cs-0.5-150+9999"
 		"ypos"										"cs-0.5+110"
 		"zpos"										"-1"
 		"wide"										"75"
