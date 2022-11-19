@@ -4,12 +4,13 @@
 	{
 		"ControlName"								"Frame"
 		"fieldName"									"Spectator"
-		"wide"										"f0"
-		"tall"										"f0"
+		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
-		"autoResize"								"0"
 	}
+	
+	"specgui" { }
+	
 	"ReinforcementsLabel"
 	{
 		"ControlName"								"CExLabel"
