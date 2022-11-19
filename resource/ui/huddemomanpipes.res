@@ -11,7 +11,10 @@
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
+		
+		"bgcolor_override"							"10 10 5 150"
 	}
+	
 	"PipesPresentPanel"
 	{
 		"ControlName"								"EditablePanel"

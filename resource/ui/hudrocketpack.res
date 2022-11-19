@@ -24,6 +24,22 @@
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 	}
+	"Shade"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"Shade"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"3"
+		"wide"										"40"
+		"tall"										"f0"
+		"visible"									"1"
+		"enabled"									"1"
+		"paintbackground"							"1"
+		"bgcolor_override"							"65 35 35 40"
+		
+		"pin_to_sibling"							"ItemEffectMeter"
+	}
 	"ItemEffectMeter2"
 	{
 		"ControlName"								"ContinuousProgressBar"
@@ -36,5 +52,21 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
+	}
+	"Shade2"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"Shade2"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"3"
+		"wide"										"39"
+		"tall"										"f0"
+		"visible"									"1"
+		"enabled"									"1"
+		"paintbackground"							"1"
+		"bgcolor_override"							"65 35 35 40"
+		
+		"pin_to_sibling"							"ItemEffectMeter2"
 	}
 }
