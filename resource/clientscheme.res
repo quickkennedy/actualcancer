@@ -427,7 +427,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2 Build"
+				"name"										"TF2 Build Numbers"
 				"tall"										"20"
 				"antialias" 								"1"
 				"additive"									"1"
@@ -3456,6 +3456,11 @@
 		{
 			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
+		}
+		"2"
+		{
+			"font" "resource/tf2buildnumbers.ttf"
+			"name" "TF2 Build Numbers"
 		}
 	}
 }
