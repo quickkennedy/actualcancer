@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/Base_Active.res"
+"Resource/UI/Build_Menu/Bas_Active.res"
 {
 	"Background"
 	{
@@ -18,25 +18,23 @@
 
 		"MetalIcon"
 		{
-			"ControlName"							"CIconPanel"
+			"ControlName"							"ImagePanel"
 			"fieldName"								"MetalIcon"
 			"xpos"									"cs-0.5"
 			"ypos"									"cs-0.5"
 			"zpos"									"1"
-			"wide"									"25"
-			"tall"									"25"
+			"wide"									"52"
+			"tall"									"52"
 			"visible"								"1"
 			"enabled"								"1"
-			"scaleImage"							"1"
 			"proportionaltoparent"					"1"
-			"icon"									"ico_metal"
-			"iconColor"								"White"
-			"alpha"									"100"
+			"Image"									"class_icons/filter_engineer_motd"
+			"scaleImage"							"1"
+			"drawcolor"								"255 255 255 75"
 		}
-
 		"NumberBG"
 		{
-			"ControlName"							"EditablePanel"
+			"ControlName"							"Panel"
 			"fieldName"								"NumberBG"
 			"xpos"									"0"
 			"ypos"									"rs1"
@@ -46,24 +44,10 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"paintbackground"						"0"
-
-			"BG"
-			{
-				"ControlName"						"EditablePanel"
-				"fieldName"							"BG"
-				"xpos"								"0"
-				"ypos"								"-3"
-				"zpos"								"0"
-				"wide"								"f0"
-				"tall"								"f-3"
-				"visible"							"1"
-				"enabled"							"1"
-				"proportionaltoparent"				"1"
-				"paintbackground"					"1"
-				"paintbackgroundtype"				"2"
-				"bgcolor_override"					"TransparentLightBlack"
-			}
+			"paintbackground"						"1"
+			"paintbackgroundtype"					"2"
+			"roundedcorners"						"12"
+			"bgcolor_override"						"TransparentLightBlack"
 		}
 	}
 	"CostLabel"
@@ -99,36 +83,5 @@
 		"proportionaltoparent"						"1"
 		"font"										"HudFontSmallest"
 		"fgcolor"									"White"
-	}
-
-	"ItemBackground"
-	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"ItemBackground"
-		"xpos"										"9999"
-	}
-	"ItemNameLabel"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"ItemNameLabel"
-		"xpos"										"9999"
-	}
-	"BuildingIcon"
-	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"BuildingIcon"
-		"xpos"										"9999"
-	}
-	"ModeLabel"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"ModeLabel"
-		"xpos"										"9999"
-	}
-	"NumberBg"
-	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"NumberBg"
-		"xpos"										"9999"
 	}
 }

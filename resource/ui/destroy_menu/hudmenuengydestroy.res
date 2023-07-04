@@ -1,4 +1,4 @@
-"Resource/UI/Build_Menu/HudMenuEngyDestroy.res"
+"Resource/UI/Destroy_Menu/HudMenuEngyDestroy.res"
 {
 	"active_item_1"
 	{
@@ -132,43 +132,5 @@
 		"wide"										"0"
 		"tall"										"0"
 		"visible"									"0"
-	}
-
-
-	"MainBackground"
-	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"MainBackground"
-		"xpos"										"9999"
-	}
-	"TitleLabel"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"TitleLabel"
-		"xpos"										"9999"
-	}
-	"CancelLabel"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"CancelLabel"
-		"xpos"										"9999"
-	}
-	"DestroyIcon"
-	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"DestroyIcon"
-		"xpos"										"9999"
-	}
-	"Divider"
-	{
-		"ControlName"		     					"ImagePanel"
-		"fieldName"									"Divider"
-		"xpos"										"9999"
-	}
-	"TitleLabelDropshadow"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"TitleLabelDropshadow"
-		"xpos"										"9999"
 	}
 }
