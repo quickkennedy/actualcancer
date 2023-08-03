@@ -37,16 +37,16 @@
 		"command"								"engine open_store"
 		"OnlyAtMenu"							"1"
 	}
-	"Advanced Options"
-	{
-		"label"									"adv.options"
-		"command"								"opentf2options"
-	}
-	"Contracker"
-	{
-		"label" 								"contracker"
-		"command" 								"questlog"
-	}
+	//"Advanced Options"
+	//{
+	//	"label"									"adv.options"
+	//	"command"								"opentf2options"
+	//}
+	//"Contracker"
+	//{
+	//	"label" 								"contracker"
+	//	"command" 								"questlog"
+	//}
 	//"Options"
 	//{
 	//	"label"									"options"
