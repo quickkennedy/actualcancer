@@ -37,11 +37,6 @@
 		"command"								"engine open_store"
 		"OnlyAtMenu"							"1"
 	}
-	"Options"
-	{
-		"label"									"options"
-		"command"								"OpenOptionsDialog"
-	}
 	"Advanced Options"
 	{
 		"label"									"adv.options"
@@ -52,6 +47,11 @@
 		"label" 								"contracker"
 		"command" 								"questlog"
 	}
+	//"Options"
+	//{
+	//	"label"									"options"
+	//	"command"								"OpenOptionsDialog"
+	//}
 	"Vote"
 	{
 		"label"									"vote"
