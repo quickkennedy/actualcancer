@@ -31,7 +31,7 @@
 		"PartyMember5"										"255 118 108 255"
 		"PartyMember6"										"255 133 255 255"
 
-		"White"												"225 220 220 255"
+		"White"												"225 220 220 255" // e1dcdcff
 		"Red"												"255 0 0 255"
 		"RedSolid"											"192 28 0 255"
 		"Blue"												"0 160 255 255"
@@ -48,8 +48,8 @@
 		"HUDBlueTeam"										"0 120 201 255"
 		"HUDRedTeam"										"235 58 58 255"
 		"HUDSpectator"										"120 115 105 255"
-		"HUDBlueTeamSolid"									"115 150 170 255"
-		"HUDRedTeamSolid"									"189 59 61 255"
+		"HUDBlueTeamSolid"									"115 150 170 255" // 7396aaff
+		"HUDRedTeamSolid"									"189 59 61 255" // bd3b3dff
 		"HUDDeathWarning"									"255 0 0 255"
 		"HudWhite"											"225 220 220 255"
 		"HudOffWhite"										"225 220 220 255"
