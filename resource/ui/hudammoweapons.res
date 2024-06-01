@@ -1,5 +1,18 @@
 "Resource/UI/HudAmmoWeapons.res"
 {
+	"ReplacementCharge"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ReplacementCharge"
+		"zpos"		"999"
+		"xpos"		"cs-0.5"
+		"ypos"		"cs-0.5+30"
+		"wide"		"30"
+		"tall"		"400"
+		"visible"		"1"
+		"image"		"replay/thumbnails/sniperscope/snipercharge"
+		"scaleimage"	"1"
+	}
 	"AmmoAnchor"
 	{
 		"ControlName"								"EditablePanel"
