@@ -649,13 +649,10 @@
 
 	"HudScopeCharge"
 	{
-		"fieldName"									"HudScopeCharge"
-		"visible" 									"1"
-		"enabled" 									"1"
-		"xpos"										"c64"
-		"ypos"	 									"c-64"
-		"wide"	 									"64"
-		"tall"	 									"128"
+		"fieldName" "HudScopeCharge"
+		"visible" "0"
+		"xpos"	 "9999"
+		"wide"	 "0"
 	}
 
 	"HudVoiceSelfStatus"
