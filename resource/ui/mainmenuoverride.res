@@ -234,6 +234,26 @@
 		"fieldName"								"mouseoveritempanel"
 		"xpos"									"9999"
 	}
+
+	"VolumeSlider"
+	{
+		"ControlName"		"CCvarSlider"
+		"fieldName"		"VolumeSlider"
+		"xpos"		"1"
+		"ypos"		"r10"
+		"wide"		"40"
+		"tall"		"11"
+
+		"visible"		"1"
+
+		"leftText"		""
+		"rightText"		""
+		"minvalue"		"0.03"
+		"maxvalue"		"0.3"
+		"numTicks"		"0"
+		"cvar_name"		"volume"
+		"allowoutofrange"		"0"
+	}
 	
 	"SafeMode"
 	{
