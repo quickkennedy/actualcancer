@@ -476,12 +476,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Lucida Console" [$WINDOWS]
-				"name"		 "Lucida Console" [$X360]
-				"name"		 "Verdana" [$POSIX]
-				"tall"		"11" [$OSX]
-				"tall"		"14" [$LINUX]
-				"tall"		"10"
+				"name"		 "Lucida Console"
+				"tall"		"11" [$WINDOWS]
+				"tall"		"13" [$POSIX]
 				"weight"	"500"
 			}
 		}
@@ -1331,5 +1328,6 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"	
 		"3"		"resource/marlett.ttf"
+		"42069"		"resource/lucon.ttf"
 	}
 }
